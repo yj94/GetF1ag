@@ -70,7 +70,7 @@ namespace GetF1ag
             }
             catch (Exception ex)
             {
-                Console.WriteLine("发生异常: " + ex.Message);
+                Console.WriteLine("发生异常,请联系作者: " + ex.Message);
             }
         }
 
